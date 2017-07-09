@@ -8,9 +8,6 @@ glance - what to expact from upgrading to a new version.
 
 ### Added
 
-- Container based on official Postgres container, which loads required Postgres
-  extensions.
-
 ### Changed
 
 ### Fixed
@@ -22,3 +19,9 @@ glance - what to expact from upgrading to a new version.
 ### Removed
 
 
+## [9.4] - 2017-07-09
+
+### Added
+
+- Container based on official Postgres container, which loads required Postgres
+  extensions.
